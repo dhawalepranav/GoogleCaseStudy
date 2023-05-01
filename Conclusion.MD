@@ -6,6 +6,6 @@ Conclusion of the case study:
 
 3 - In terms of the duration of the ride for year 2020 , the Casual riders have the highest ride duration i.e 67 % out of 100 percent , Cyclist members having remaining 33 %.
 
-4 - As per rides distribution over a week, Casual riders tends to use the bike most on Saturdays , wherein the Cyclist members have the normal distribution for rides over a week.
+4 - As per rides distribution over a week, Casual riders tends to use the bike most on Saturdays , wherein the Cyclist members have rides ditributed throughout the week.
 
 In order to Convert the Casual riders to Cyclist Members we can launch a campaign on social media about Health benefits related to Cycling and we can offer the Weekend discounts for Membership purchases.
